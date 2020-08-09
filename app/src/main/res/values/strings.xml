@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">My First App</string>
+    <string name="edit_message">Escreva a sua mensagem</string>
+    <string name="button_send">Send</string>
+    <string-array name="Fontes">
+        <item>QR_CODE</item>
+        <item>EAN_8</item>
+        <item>EAN_13</item>
+
+    </string-array>
+    <string-array name="Tamanhos">
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+
+
+    <string name="title_activity_ler_qr_and_bardcode">lerQrAndBardcode</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

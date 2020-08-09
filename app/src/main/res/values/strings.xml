@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name" translatable="false">My First App</string>
     <string name="edit_message">Escreva a sua mensagem</string>
     <string name="button_send">Send</string>
@@ -16,6 +17,10 @@
 
 
     <string name="title_activity_ler_qr_and_bardcode">lerQrAndBardcode</string>
+=======
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> 4646d7f41ba2c1a1c1bee7361c4eefff483c4cbd
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
